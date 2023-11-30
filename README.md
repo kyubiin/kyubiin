@@ -64,6 +64,18 @@
       <td>2023</td>
       <td><a href="https://github.com/SilverCampus/aws_server.git">🔗</a></td>
     </tr>
+    <tr>
+      <td><a href="https://drive.google.com/file/d/1ht85bRNnOc94XKOtued47eKLyrSuJz9y/view?usp=drive_link">Crews : 서강 리쿠르팅 플랫폼</a></td>
+      <td>
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+      </td>
+      <td>2023</td>
+      <td><a href="https://github.com/Crews-Server/crews-server.git">🔗</a></td>
+    </tr>
   </table>
 </div>
 
