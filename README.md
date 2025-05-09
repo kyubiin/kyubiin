@@ -19,7 +19,7 @@ I enjoy researching and developing systems in these fields—from training neura
 - Researching hallucination mitigation in multimodal LLMs (MLLMs) via contrastive decoding and RAG.
 
 ### Data Science Student Association, INSIGHT (Sogang University)  
-**Jun. 2024 – Feb. 2025**  
+**Mar. 2024 – Feb. 2025**  
 - Served as a core member and project lead.  
   - **LG Aimers / Data Intelligence Internship** (Jul. 2024 – Aug. 2024): Developed data pipelines and exploratory analyses for real-world AI use cases.
 
