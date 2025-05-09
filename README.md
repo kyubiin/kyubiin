@@ -18,12 +18,12 @@ I enjoy researching and developing systems in these fields—from training neura
 **Mar. 2025 – Present**  
 - Researching hallucination mitigation in multimodal LLMs (MLLMs) via contrastive decoding and RAG.
 
-### Data Science Student Association, INSIGHT (Sogang University)  
+### Sogang University, Data Science Student Association – INSIGHT  
 **Mar. 2024 – Feb. 2025**  
 - Served as a core member and project lead.  
   - **LG Aimers / Data Intelligence Internship** (Jul. 2024 – Aug. 2024): Developed data pipelines and exploratory analyses for real-world AI use cases.
 
-### Like Lion (멋쟁이사자처럼) at Sogang University  
+### Sogang University, Like Lion (멋쟁이사자처럼)  
 **Mar. 2023 – Dec. 2024**  
 - Backend developer for **Silver Campus**, an internet-lecture platform for seniors.  
   - Repository: [SilverCampus/aws_server](https://github.com/SilverCampus/aws_server)
@@ -32,7 +32,7 @@ I enjoy researching and developing systems in these fields—from training neura
 **Jan. 2023 – Mar. 2023**  
 - Established low-carbon building management guidelines based on building carbon-emission analysis.
 
-### ENACTUS at Sogang University  
+### Sogang University, ENACTUS  
 **Mar. 2020 – Dec. 2020**  
 - Participated in **Kakao Impact X MYSC 100UP Problem-Definition Workshop** (Jul. 2020 – Aug. 2020).  
 - Helped secure a ₩40 million grant for a collaborative clothing-manufacturer support program.
