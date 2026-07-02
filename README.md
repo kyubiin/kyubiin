@@ -21,7 +21,7 @@ I enjoy researching and developing systems in these fields—from training neura
 ### Sogang University, Data Science Student Association – INSIGHT  
 **Mar. 2024 – Feb. 2025**  
 - Served as a core member and project lead.  
-  - **LG Aimers / Data Intelligence Internship** (Jul. 2024 – Aug. 2024): Developed data pipelines and exploratory analyses for real-world AI use cases.
+  - **LG Aimers / Data Intelligence (Jul. 2024 – Aug. 2024): Developed data pipelines and exploratory analyses for real-world AI use cases.
 
 ### Sogang University, Like Lion (멋쟁이사자처럼)  
 **Mar. 2023 – Dec. 2024**  
